@@ -8,6 +8,9 @@ const Footer = () => {
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a href="/" className="hover:underline">Home</a>
           <a href="/about" className="hover:underline">About</a>
+          <a href="/contact" className="hover:underline">Contact</a>div className="flex space-x-4 mt-4 md:mt-0">
+          <a href="/" className="hover:underline">Home</a>
+          <a href="/about" className="hover:underline">About</a>
           <a href="/contact" className="hover:underline">Contact</a>
         </div>
       </div>
